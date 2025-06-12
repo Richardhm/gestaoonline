@@ -125,10 +125,6 @@
             </div>
         </div>
     </div>
-
-
-
-
     <div class="container mx-auto py-8">
         <h2 class="text-2xl font-bold mb-8">Mapa de Relacionamentos</h2>
         <div class="flex flex-col gap-8">
