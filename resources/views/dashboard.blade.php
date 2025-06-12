@@ -126,7 +126,7 @@
         </div>
     </div>
     <div class="container mx-auto py-8">
-        <h2 class="text-2xl font-bold mb-8">Mapa de Relacionamentos</h2>
+        <h2 class="text-2xl font-bold mb-8">Listagem de Relacionamentos</h2>
         <div class="flex flex-col gap-8">
             @foreach($acs as $ac)
                 <div class="flex items-start gap-4">
